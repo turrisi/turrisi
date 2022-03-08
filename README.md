@@ -15,19 +15,19 @@
 
 <h3 align="left">Connect through:</h3>
 <!-- <p align="left"> -->
-#### [LinkedIn](www.linkedin.com/in/alejandroturrisi)
 <img align="center"
       src="https://github.com/turrisi/turrisi/blob/main/img/LinkLogo.png"
       alt="ale" height="30" width="40" />
+(www.linkedin.com/in/alejandroturrisi)
       <!-- </p> -->
 <!-- <a href="www.linkedin.com/in/alejandroturrisi" target="www.linkedin.com/in/alejandroturrisi">
     LinkedIn</a> -->
-#### [dip.aturrisi@gmail.com](mailto:dip.aturrisi@gmail.com)
+
+<a href="mailto:dip.aturrisi@gmail.com" target="mailto:dip.aturrisi@gmail.com">
 <img align="center"
       src="https://github.com/turrisi/turrisi/blob/main/img/MailLogo.png"
       alt="ale" height="30" width="40" />
-<!-- <a href="mailto:dip.aturrisi@gmail.com" target="mailto:dip.aturrisi@gmail.com">
-    Mail me!</a> -->
+    Mail me!</a>
 <!-- </p> -->
 
 <br>
