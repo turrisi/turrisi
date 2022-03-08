@@ -15,10 +15,12 @@
 
 <h3 align="left">Connect through:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/alejandroturrisi"><img align="center"
+  <a href="www.linkedin.com/in/alejandroturrisi" target="www.linkedin.com/in/alejandroturrisi">
+  <img align="center"
       src="https://github.com/turrisi/turrisi/blob/main/img/LinkLogo.png"
       alt="ale" height="30" width="40" /></a>
-  <a href="mailto:dip.aturrisi@gmail.com"><img align="center"
+  <a href="mailto:dip.aturrisi@gmail.com" target="mailto:dip.aturrisi@gmail.com">
+  <img align="center"
       src="https://github.com/turrisi/turrisi/blob/main/img/MailLogo.png"
       alt="ale" height="30" width="40" /></a>
 </p>
