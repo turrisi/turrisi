@@ -14,49 +14,50 @@
 <br>
 
 <h3 align="left">Connect through:</h3>
-<p align="left">
-### [LinkedIn](www.linkedin.com/in/alejandroturrisi)  
+<!-- <p align="left"> -->
+#### [LinkedIn](www.linkedin.com/in/alejandroturrisi)
 <img align="center"
       src="https://github.com/turrisi/turrisi/blob/main/img/LinkLogo.png"
-      alt="ale" height="30" width="40" /></p>
+      alt="ale" height="30" width="40" />
+      <!-- </p> -->
 <!-- <a href="www.linkedin.com/in/alejandroturrisi" target="www.linkedin.com/in/alejandroturrisi">
     LinkedIn</a> -->
-### [dip.aturrisi@gmail.com](mailto:dip.aturrisi@gmail.com)
+#### [dip.aturrisi@gmail.com](mailto:dip.aturrisi@gmail.com)
 <img align="center"
       src="https://github.com/turrisi/turrisi/blob/main/img/MailLogo.png"
       alt="ale" height="30" width="40" />
 <!-- <a href="mailto:dip.aturrisi@gmail.com" target="mailto:dip.aturrisi@gmail.com">
     Mail me!</a> -->
-</p>
+<!-- </p> -->
 
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a> Node JS
-    <img src="https://github.com/turrisi/turrisi/blob/main/img/NodeLogo.png" alt="Node" width="40" height="40" /> </a> 
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/NodeLogo.png" alt="Node" width="40" height="40" /> </a>
 <a> JavaScript
-    <img src="https://github.com/turrisi/turrisi/blob/main/img/JSLogo.png" alt="JS" width="40" height="40" /> </a> 
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/JSLogo.png" alt="JS" width="40" height="40" /> </a>
 <p align="left">
 <a> Express
-    <img src="https://github.com/turrisi/turrisi/blob/main/img/ExpressLogo.png" alt="express" width="40" height="40" /> </a> 
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/ExpressLogo.png" alt="express" width="40" height="40" /> </a>
 <a> Typescript
-    <img src="https://github.com/turrisi/turrisi/blob/main/img/TSLogo.png" alt="TS" width="40" height="40" /> </a> 
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/TSLogo.png" alt="TS" width="40" height="40" /> </a>
 <p align="left">
 <a> SQL
-    <img src="https://github.com/turrisi/turrisi/blob/main/img/SqlLogo.png" alt="sql" width="40" height="40" /> </a> 
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/SqlLogo.png" alt="sql" width="40" height="40" /> </a>
 <a> Sequelize
-    <img src="https://github.com/turrisi/turrisi/blob/main/img/sequelizeLogo.png" alt="sequalize" width="40" height="40" /> </a> 
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/sequelizeLogo.png" alt="sequalize" width="40" height="40" /> </a>
 <p align="left">
 <a> PostgresSQL
-    <img src="https://github.com/turrisi/turrisi/blob/main/img/pngwing.com.png" alt="psql" width="40" height="40" /> </a> 
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/pngwing.com.png" alt="psql" width="40" height="40" /> </a>
 <a> Prisma
-    <img src="https://github.com/turrisi/turrisi/blob/main/img/prismaLogo.png" alt="prisma" width="40" height="40" /> </a> 
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/prismaLogo.png" alt="prisma" width="40" height="40" /> </a>
 <p align="left">
 <a> React
-    <img src="https://github.com/turrisi/turrisi/blob/main/img/ReactLogo.png" alt="react" width="40" height="40" /> </a> 
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/ReactLogo.png" alt="react" width="40" height="40" /> </a>
 <a> Redux
-    <img src="https://github.com/turrisi/turrisi/blob/main/img/ReduxLogo.png" alt="reux" width="40" height="40" /> </a> 
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/ReduxLogo.png" alt="reux" width="40" height="40" /> </a>
 
 <br>
 
