@@ -16,87 +16,68 @@
 <h3 align="left">Connect through:</h3>
 <p align="left">
   <a href="www.linkedin.com/in/alejandroturrisi" target="blank"><img align="center"
-      src=""
+      src="https://github.com/turrisi/turrisi/blob/main/img/LinkLogo.png"
       alt="ale" height="30" width="40" /></a>
   <a href="mailto:dip.aturrisi@gmail.com" target="blank"><img align="center"
-      src=""
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      src="https://github.com/turrisi/turrisi/blob/main/img/MailLogo.png"
+      alt="ale" height="30" width="40" /></a>
 </p>
 
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+<p align="left">
+<a> Node JS
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/NodeLogo.png" alt="Node" width="40" height="40" /> </a> 
+<a> JavaScript
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/JSLogo.png" alt="JS" width="40" height="40" /> </a> 
+<a> Express
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/ExpressLogo.png" alt="express" width="40" height="40" /> </a> 
+<a> Typescript
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/TSLogo.png" alt="TS" width="40" height="40" /> </a> 
+<a> SQL
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/SqlLogo.png" alt="sql" width="40" height="40" /> </a> 
+<a> Sequelize
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/sequelizeLogo.png" alt="sequalize" width="40" height="40" /> </a> 
+<a> PostgresSQL
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/pngwing.com.png" alt="psql" width="40" height="40" /> </a> 
+<a> Prisma
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/prismaLogo.png" alt="prisma" width="40" height="40" /> </a> 
+<a> React
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/ReactLogo.png" alt="react" width="40" height="40" /> </a> 
+<a> Redux
+    <img src="https://github.com/turrisi/turrisi/blob/main/img/ReduxLogo.png" alt="reux" width="40" height="40" /> </a> 
 
 <br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
+<h2>A quick view at my first individual proyect:</h2>
+<h3 href="https://github.com/turrisi/PI-Pokemons">POKÉMON</h3>
 
+<h4>It's a SPA where you can see initialy 40 pokemons distributed in 4 pages, acces the details of any one of them, order them, filter them by type, and even create one of your owne</h4>
+
+<p>Landing page
+<img align="center"
+    src="https://github.com/turrisi/turrisi/blob/main/img/landing.png"
+    alt="landing" />
+</p>
+<p>Loading 🥰
+<img align="center"
+    src="https://github.com/turrisi/turrisi/blob/main/img/loading.png"
+    alt="loading" />
+</p>
+<p>Home page
+<img align="center"
+    src="https://github.com/turrisi/turrisi/blob/main/img/home.png"
+    alt="home" />
+</p>
+<p>Detail page
+<img align="center"
+    src="https://github.com/turrisi/turrisi/blob/main/img/detail.png"
+    alt="detail" />
+</p>
+<p>Creating new pokémon page
+<img align="center"
+    src="https://github.com/turrisi/turrisi/blob/main/img/create.png"
+    alt="create" />
+</p>
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-
-<!-- <br>
-<h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=adam-pw&bg_color=0d1117&text_color=ffffff" alt="adam-pw" /></a> </p> -->
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
