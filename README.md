@@ -18,13 +18,14 @@
 <img align="center"
       src="https://github.com/turrisi/turrisi/blob/main/img/LinkLogo.png"
       alt="ale" height="30" width="40" />
-<a href="www.linkedin.com/in/alejandroturrisi" target="www.linkedin.com/in/alejandroturrisi">
-    LinkedIn</a>
+<link href="www.linkedin.com/in/alejandroturrisi" target="www.linkedin.com/in/alejandroturrisi">
+    LinkedIn</link>
+
 <img align="center"
       src="https://github.com/turrisi/turrisi/blob/main/img/MailLogo.png"
       alt="ale" height="30" width="40" />
-<a href="mailto:dip.aturrisi@gmail.com" target="mailto:dip.aturrisi@gmail.com">
-    Mail me!</a>
+<link href="mailto:dip.aturrisi@gmail.com" target="mailto:dip.aturrisi@gmail.com">
+    Mail me!</link>
 </p>
 
 <br>
