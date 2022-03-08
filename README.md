@@ -1,26 +1,25 @@
-<h1 align="center">Hi 👋, I'm Alejandro Turrisi</h1>
-<h3 align="center">Full stack developer🌟.</h3>
+<h1 align="center">🌎 HELLO WORLD 🌎</h1>
+<h1 align="center">I'm Alejandro Turrisi</h1>
+<h3 align="center">🌟I am a full stack developer🌟.</h3>
 
 <br>
 
 <p><img align="right" src="https://github.com/turrisi/turrisi/blob/main/img/working.gif" alt="ale" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently developing the final proyect in #SoyHenry
 
-- 📫 How to reach me **adampithewan@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact : Do what you love and you wont work a single day of your life.
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect through:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+  <a href="www.linkedin.com/in/alejandroturrisi" target="blank"><img align="center"
+      src=""
+      alt="ale" height="30" width="40" /></a>
+  <a href="mailto:dip.aturrisi@gmail.com" target="blank"><img align="center"
+      src=""
       alt="adam pithen wala" height="30" width="40" /></a>
   <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
